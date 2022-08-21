@@ -2,14 +2,54 @@ PRIVACY POLICY
 
 This privacy policy governs your use of the software application Nymerian Fighter (“Application”) for mobile devices that was created by Nymerian Games GmbH. The Application is a space-shooter game.
 
-The application does not collect any user data.
+Collected data
+--------------
 
-There is no user-provided information.
+What: Approximate location.
+For: Advertising or marketing, analytics, app functionality, fraud prevention, security, and compliance.
 
-There is no automatic collection of information.
+What: User IDs.
+For: App functionality.
 
-The application does not collect any location-related information.
+What: Page views and taps during the ad experience in the ad itself, not during gameplay.
+For: Advertising or marketing, analytics, fraud prevention, security, and compliance.
 
-The application does not collect any information about user's device.
+What: App diagnostics.
+For: App functionality, analytics.
 
-No information is shared with any third party.
+What: Device or other IDs.
+For: Advertising or marketing, analytics, app functionality, fraud prevention, security, and compliance.
+
+
+Shared data
+-----------
+
+What: Approximate location.
+For: Advertising or marketing, analytics, app functionality, fraud prevention, security, and compliance.
+
+What: User IDs.
+For: App functionality.
+
+What: Page views and taps during the ad experience in the ad itself, not during gameplay.
+For: Advertising or marketing, analytics, fraud prevention, security, and compliance.
+
+What: App diagnostics.
+For: App functionality, analytics.
+
+What: Device or other IDs.
+For: Advertising or marketing, analytics, app functionality, fraud prevention, security, and compliance.
+
+
+Encryption
+----------
+Your data is transferred over a secure connection.
+
+
+Data Collection Opt-Out
+-----------------------
+Users can use the "i" button or Data Privacy icon on any ad.
+
+Additionally, all users, regardless of their location, may opt-out of all personalized advertising by enabling privacy features on their devices such as Limit Ad Tracking (iOS) and Opt Out of Ads Personalization (Android). See your device’s Help system for more information.
+
+For additional info see:
+https://unity.com/legal/privacy-policy
