@@ -164,3 +164,4 @@ thebrave.io, 1234678, RESELLER, c25b2154543746ac
 thunder-monetize.com, 3962740416, RESELLER
 video.unrulymedia.com, 995298565, RESELLER
 xandr.com, 14082, RESELLER
+rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
