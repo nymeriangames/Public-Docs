@@ -12,4 +12,8 @@ The application does not collect any location-related information.
 
 The application does not collect any information about user's device.
 
+The application does not delete any data since it has no user data.
+
+The application does not retain any data since it has no user data.
+
 No information is shared with any third party.
