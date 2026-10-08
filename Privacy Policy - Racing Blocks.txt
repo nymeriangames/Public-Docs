@@ -1,0 +1,38 @@
+PRIVACY POLICY - RACING BLOCKS
+Effective October 8, 2026
+
+Racing Blocks is a mobile racing game provided by Nymerian Games GmbH. Contact us about privacy at info@nymeriangames.com.
+
+INFORMATION USED BY THE GAME
+
+The game stores progress on your device, including experience points, cosmetic selections, preferences, race records, recent results and local play counters.
+
+When connecting to the online service, the game creates an anonymous player identifier and authentication credential. You do not need to register with an email address or password. The game sends your chosen display name and competition information, including scores, placement, collected-token totals and completion times, to operate daily challenges and leaderboards.
+
+Your display name and qualifying results may be visible to other players on leaderboards. Do not include personal information in your display name. Authentication credentials are not displayed publicly.
+
+Network connections make your IP address available to our hosting infrastructure. We use Netlify Functions and Blobs to host the online service and store its records. Hosting infrastructure may process technical request information for service operation and security. Connections to the service use HTTPS.
+
+The current game contains no advertising SDK and does not access the advertising identifier or request location permission. Local play counters are not sent as a separate analytics feed. We do not sell player information or use it for targeted advertising.
+
+HOW INFORMATION IS USED AND SHARED
+
+We use this information to save progress, authenticate anonymous players, provide competitions and rankings, and operate and protect the service. Online information is processed by our hosting provider for these purposes. Display names and leaderboard results are shared with other players as described above. Information may also be disclosed when required by applicable law.
+
+STORAGE AND RETENTION
+
+Your local profile includes progress and the online authentication credential. Clearing app data removes this local profile, but does not delete server-side records. The game does not provide cloud backup or recovery of the local profile.
+
+The online service is configured to remove challenge, attempt-ticket, result and leaderboard-snapshot records older than 31 days. Anonymous identity and display-name records are stored separately and are not covered by that automatic cleanup. Hosting-provider logs may have separate retention periods.
+
+YOUR CHOICES AND REQUESTS
+
+You can change your display name in the game and remove local progress by clearing the app's data. For questions or requests concerning access, correction or deletion of server-side information, email info@nymeriangames.com. Include your in-game player identifier if available, but never send your authentication credential. We may need information to verify that a request concerns your own records. Depending on applicable law, you may also have rights to restrict or object to processing, receive a copy of your information, or complain to a data-protection authority.
+
+CHILDREN AND FAMILIES
+
+Racing Blocks is intended for all ages. It does not ask for a real name, email address, date of birth or precise location. Players, including children, should not put personal information in their public display name. A parent or guardian can contact info@nymeriangames.com with questions or requests about a child's information. The game does not use targeted advertising.
+
+CHANGES AND CONTACT
+
+We may update this policy as the game or service changes. The effective date above identifies the current version. For privacy questions, contact Nymerian Games GmbH at info@nymeriangames.com.
